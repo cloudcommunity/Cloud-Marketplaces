@@ -4,8 +4,9 @@ A curated list of marketplaces provided by different cloud computing platforms a
 
 | Cloud Vendor | Cloud Marketplace |
 |---|---|
-| Amazon Web Services (AWS) | AWS Marketplace |
-| Microsoft Azure | [Azure Marketplace](https://azuremarketplace.microsoft.com/) |
+| Amazon Web Services (AWS) | [AWS Marketplace](https://aws.amazon.com/marketplace) |
+| DigitalOcean | DigitalOcean Marketplace |
 | Google Cloud Platform (GCP) | Google Cloud Marketplace |
 | IBM Cloud | IBM Cloud Catalog |
-| DigitalOcean | DigitalOcean Marketplace |
+| Microsoft Azure | [Azure Marketplace](https://azuremarketplace.microsoft.com/) |
+| Red Hat | [Red Hat Marketplace](https://marketplace.redhat.com/) |
