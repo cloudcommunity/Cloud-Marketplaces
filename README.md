@@ -1,6 +1,6 @@
 # Cloud Marketplaces
 
-A curated list of marketplaces provided by different cloud computing platforms and vendors.
+A curated list of marketplaces provided by different cloud computing platforms and cloud vendors.
 
 | Cloud Vendor | Cloud Marketplace |
 |---|---|
